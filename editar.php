@@ -1,4 +1,3 @@
-
 <?php
 if (!empty($_POST)) {
     $pdo = new PDO('sqlite:contatos.sqlite3');
