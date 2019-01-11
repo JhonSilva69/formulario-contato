@@ -14,3 +14,10 @@ Os parâmetros não precisam ser escapados, pois o driver cuida disso automatica
 
 * Comandos básicos em SQL - INSERT (comando para inclusão no banco de dados), UPDATE (comando para atualizar registros), DELETE (comando utilizado para apagar dados) e SELECT (uma sub-consulta é uma instrução). 
 
+* O SQLite é uma biblioteca de linguagem C que implementa um mecanismo de banco de dados SQL pequeno , rápido , autônomo , de alta confiabilidade e completo.
+
+* Comando while-> O comando while permite que um certo trecho de programa seja executado ENQUANTO uma certa condição for verdadeira. 
+
+* If else-> estrutura de condição.
+
+* requere_once-> incluí e avalia o arquivo especificado durante a execução do script.
